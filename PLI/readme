@@ -1,0 +1,2 @@
+## for PLI features, the extern C functions can directly access the internal variables, without
+re-compiling, this is suitable for debug.
